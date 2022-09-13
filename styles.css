@@ -58,6 +58,7 @@ body {
   border-radius: 20px;
   position: absolute;
   bottom: 2.5em;
+  text-transform: capitalize;
   cursor: pointer;
 }
 
