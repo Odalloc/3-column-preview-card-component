@@ -23,13 +23,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot.png)
+![](./images/screenshot-mobile.png.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: https://github.com/Odalloc/3-column-preview-card-component
+- Live Site URL: https://odalloc.github.io/3-column-preview-card-component/
 
 ### Built with
 
